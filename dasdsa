@@ -1,0 +1,42 @@
+[33mcommit 6247c02033fb27bc84f65f02cff3a5a1ab10851f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a0a5fb5 3782476
+Author: jeremy <maisajeremy331@gmail.com>
+Date:   Mon Sep 22 19:19:44 2025 +0800
+
+    Fix merge conflict
+
+[33mcommit 378247649498b32823188849efaadbff14281bce[m
+Author: jeremymaisa <maisajeremy331@gmail.com>
+Date:   Mon Sep 22 19:13:19 2025 +0800
+
+    Add style to the h1
+
+[33mcommit a0a5fb53feef92f72cd76abea518aa694a4e8aca[m
+Author: jeremy <maisajeremy331@gmail.com>
+Date:   Mon Sep 22 19:08:51 2025 +0800
+
+    Add exclamation point
+
+[33mcommit 5738116cdb32532548243ccc51aecf191bb5119d[m
+Author: jeremymaisa <maisajeremy331@gmail.com>
+Date:   Mon Sep 22 18:43:09 2025 +0800
+
+    Add h2
+
+[33mcommit 36c6fd3a4c87e6877936c06482c6bfe371587fa9[m
+Author: jeremy <maisajeremy331@gmail.com>
+Date:   Mon Sep 22 18:36:54 2025 +0800
+
+    Add a headig
+
+[33mcommit c090589d013eae37ba9d3f8af9f3d7031ef7cf3d[m
+Author: jeremy <maisajeremy331@gmail.com>
+Date:   Mon Sep 22 18:20:42 2025 +0800
+
+    Added index.html
+
+[33mcommit 79c867b83ec3ef420435294658bf3a6d29881fa1[m
+Author: jeremymaisa <maisajeremy331@gmail.com>
+Date:   Mon Sep 22 17:49:55 2025 +0800
+
+    Initial commit
